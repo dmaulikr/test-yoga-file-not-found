@@ -9,16 +9,6 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>RNFS.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>RNSVG.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>React.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -27,22 +17,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>247A062CACF5D25F155E6D100E811697</key>
+		<key>8FCCADDC26DB90F5E7136FD143FC77D8</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>3D104A7C5020BAA516F7801D1C2468DA</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>605FDA275940A156505256BC4F989585</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>D5A1DFEC1DA6D362DF3738F3E22BB54C</key>
+		<key>B53A153D26DE1941AF39121F0846FAE3</key>
 		<dict>
 			<key>primary</key>
 			<true/>

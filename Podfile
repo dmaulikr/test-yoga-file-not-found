@@ -13,7 +13,4 @@ target 'test' do
     'RCTWebSocket', # needed for debugging
     'RCTNetwork',
   ]
-
-  pod 'RNSVG', :path => './node_modules/react-native-svg'
-  pod 'RNFS', :path => './node_modules/react-native-fs'
 end
