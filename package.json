@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node --max-old-space-size=4096 node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-native": "0.40.0",
+    "react-native-fs": "^2.0.1-rc.2",
+    "react-native-svg": "^4.6.1"
+  }
+}

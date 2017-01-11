@@ -1,0 +1,49 @@
+PODS:
+  - React (0.40.0):
+    - React/Core (= 0.40.0)
+  - React/Core (0.40.0):
+    - React/cxxreact
+    - React/yoga
+  - React/cxxreact (0.40.0):
+    - React/jschelpers
+  - React/jschelpers (0.40.0)
+  - React/RCTImage (0.40.0):
+    - React/Core
+    - React/RCTNetwork
+  - React/RCTNetwork (0.40.0):
+    - React/Core
+  - React/RCTText (0.40.0):
+    - React/Core
+  - React/RCTWebSocket (0.40.0):
+    - React/Core
+  - React/yoga (0.40.0)
+  - RNFS (2.0.1-rc.3):
+    - React/Core
+  - RNSVG (4.6.1):
+    - React
+
+DEPENDENCIES:
+  - React/Core (from `./node_modules/react-native`)
+  - React/RCTImage (from `./node_modules/react-native`)
+  - React/RCTNetwork (from `./node_modules/react-native`)
+  - React/RCTText (from `./node_modules/react-native`)
+  - React/RCTWebSocket (from `./node_modules/react-native`)
+  - RNFS (from `./node_modules/react-native-fs`)
+  - RNSVG (from `./node_modules/react-native-svg`)
+
+EXTERNAL SOURCES:
+  React:
+    :path: "./node_modules/react-native"
+  RNFS:
+    :path: "./node_modules/react-native-fs"
+  RNSVG:
+    :path: "./node_modules/react-native-svg"
+
+SPEC CHECKSUMS:
+  React: 6dfb2f72edb1d74a800127ae157af038646673ce
+  RNFS: 0322ab78c79a3ae3e69c192e85cfc7734ad91385
+  RNSVG: 0784ef54f0b9e950481e3b10d14f465fe4c1a16f
+
+PODFILE CHECKSUM: dea4257bab593217740b9c016c1aa4d3e459d59c
+
+COCOAPODS: 1.2.0.beta.3
