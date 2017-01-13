@@ -9,7 +9,7 @@
 
 #pragma once
 
-#include <jschelpers/JSCWrapper.h>
+#include "JSCWrapper.h"
 
 #if defined(__APPLE__)
 
